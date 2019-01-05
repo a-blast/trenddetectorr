@@ -1,0 +1,1 @@
+# trenddetectorr
